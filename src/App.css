@@ -53,4 +53,6 @@
     border: 0px;
     height: 45px;
 }
-
+.result-image {
+    width: 100%;
+}
